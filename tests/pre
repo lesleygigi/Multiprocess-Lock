@@ -1,0 +1,2 @@
+make -f tests/Makefile;
+seq 100 > tests/1.out;  # generate answer

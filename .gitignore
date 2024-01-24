@@ -1,0 +1,14 @@
+*.so
+*.o
+tests-out/
+tests/bin/
+
+# generated
+tests/1.out
+
+counter_test
+list_test
+hash_test
+performance
+mq_test
+fairness
